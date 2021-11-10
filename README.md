@@ -1,3 +1,9 @@
+# Lab-Intern in Yonsei University lab
+
+Multi-Disciplinary, Multi-Physics, Multi-Scale Design and Optimization
+(21.07.06~21.08.31)
+
+studied for reservoi
 # NASA-Bearing-Dataset
 Prognostic Dataset for Predictive/Preventive Maintenance
 This project will predict when the bearings would show failure modes.
