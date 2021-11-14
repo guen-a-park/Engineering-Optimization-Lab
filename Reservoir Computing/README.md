@@ -17,7 +17,5 @@
 [2] Pedrelli, Luca “ Deep Reservoir Computing: A Novel Class of Deep Recurrent Neural Networks” (PhD thesis).  Università di Pisa. (2019), pp.31-26, ,120-127.
 
  [3] P.R. Vlachas, J. Pathak, B.R. Hunt, T.P. Sapsis, M. Girvan, E. Ott, P. Koumoutsakos, “Backpropagation algorithms and Reservoir Computing in Recurrent Neural Networks for the forecasting of  complex spatiotemporal dynamics”, Neural Networks, Volume 126, 2020, Pages 191-217, ISSN 0893-6080,
-
  https://doi.org/10.1016/j.neunet.2020.02.016.  
-
 (https://www.sciencedirect.com/science/article/pii/S0893608020300708), pp. 206
