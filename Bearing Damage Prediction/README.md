@@ -2,7 +2,7 @@
 
 Development of anomaly detection model based on time series data from Nasa Bearing Dataset.
 
-[data description]()
+[data description](https://github.com/guen-a-park/Engineering-Optimization-Lab/blob/main/Bearing%20Damage%20Prediction/Readme%20Document%20for%20IMS%20Bearing%20Data.pdf)
 
 ### Overview
 
