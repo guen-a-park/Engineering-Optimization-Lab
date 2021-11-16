@@ -15,5 +15,5 @@ These were the topics that I studied.
 
 [Bearing Damage Prediction](https://github.com/guen-a-park/Engineering-Optimization-Lab/tree/main/Bearing%20Damage%20Prediction)
 
-[Reservoir Computing]()
+[Reservoir Computing](https://github.com/guen-a-park/Engineering-Optimization-Lab/tree/main/Reservoir%20Computing)
 
