@@ -13,7 +13,7 @@ These were the topics that I studied.
 
 #### Click on the link for more details.
 
-[Bearing Damage Prediction]()
+[Bearing Damage Prediction](https://github.com/guen-a-park/Engineering-Optimization-Lab/tree/main/Bearing%20Damage%20Prediction)
 
 [Reservoir Computing]()
 
