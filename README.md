@@ -2,7 +2,7 @@
 
 (21.07.06~21.08.31)
 
-I worked as an undergraduate research internship during 2021 summer vacation at Multi-Disciplinary, Multi-Physics, Multi-Scale Design and Optimization Lab in School of Mechanical Engineering, Yonsei University.
+I worked as an undergraduate research intern during 2021 summer vacation at Multi-Disciplinary, Multi-Physics, Multi-Scale Design and Optimization Lab in School of Mechanical Engineering, Yonsei University.
 
 These were the topics that I studied.
 
